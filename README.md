@@ -1,5 +1,8 @@
 ## Hi, I'm Gabriel 👋
 
+<p align="">
+  <img src="https://drive.google.com/uc?export=view&id=1cH7QMwaRJu2NB_XSA7y0nQFwgTol0Pcy" width="600">
+</p>
 I am a computation systems engineer.
 
 - 🌱 Student
@@ -19,9 +22,11 @@ I am a computation systems engineer.
 
 
 ### 📫 Contact
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/gabriel-coronado-g%C3%B3mez-32b066269/)
+💼 [LinkedIn](https://www.linkedin.com/in/gabriel-coronado-g%C3%B3mez-32b066269/)  
 
-📧 **Email:** gacoro30@gmail.com 
+📧 **Email:** gacoro30@gmail.com  
+
+📱 **Teléfono:** [ +506 88764837 ](tel:+50688764837)
 
 
 <!--
