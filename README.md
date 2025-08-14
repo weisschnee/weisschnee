@@ -26,7 +26,7 @@ I am a computation systems engineer.
 
 📧 **Email:** gacoro30@gmail.com  
 
-📱 **Teléfono:** [ +506 88764837 ](tel:+50688764837)
+📱 **Phone:** [+506 88764837](tel:+50688764837)
 
 
 <!--
